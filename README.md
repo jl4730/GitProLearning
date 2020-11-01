@@ -1,5 +1,5 @@
 # GitProLearning
- As a fresh starter in software development industry, I find it super helper to learn Git. And I found this incredibly helpful material online at [GitPro](https://git-scm.com/book/en/v2). I will only cover the very basics from chapter 1-3. The remaining parts will be referred when needed in work.
+ As a fresh starter in software development industry, I find it super helper to learn Git. And I found this incredibly helpful material online at [GitPro](https://git-scm.com/book/en/v2). I will only cover the very basics from chapter 1-3. The remaining parts will be referred when needed in work. I have summarized my personal experience in this medium post here [medium](https://jl4730.medium.com/git-101-to-new-users-from-creating-a-new-repo-to-push-275e42955d8a)
  
 # Chapter 1 Getting Started
 Git has three main states that your files can reside in: modified, staged, and committed:
